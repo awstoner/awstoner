@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @awstoner
+- 👀 I’m interested in all things Computer Science related! I'm still a newbie at this so I haven't pinned down what specialty I'm interested in.
+- 🌱 I’m currently learning Data Structures and Algorithms.
