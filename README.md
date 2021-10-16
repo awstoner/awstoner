@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @awstoner
-- 👀 I’m interested in all things Computer Science! Recently, I've been gravitating towards full-stack development and data engineering.
+- 👀 Recently, I've been focusing on data engineering; learning on how to transform and process data, and build data processing systems.
 - 🌱 Reach out to me on LinkedIn! I'm always up to chat. (https://www.linkedin.com/in/alexanderstoner/)
